@@ -1,21 +1,16 @@
-# Hi, I'm Nurdaulet 👋
+## Hi there 👋
 
-<p align="center">
-  <img src="https://github.com/Holpiin.png?size=200" alt="Holpiin avatar" width="180" />
-</p>
+<!--
+**Holpiin/Holpiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## About me
-I’m a developer and digital creator focused on building clean, modern, and meaningful digital experiences.
+Here are some ideas to get you started:
 
-- 🔭 Working on my portfolio and personal projects
-- 🌱 Learning and improving frontend and product design skills
-- 📁 Portfolio repository: https://github.com/Holpiin/portfolio
-- 💼 GitHub: https://github.com/Holpiin
-
-### Quick links
-- [Portfolio repo](https://github.com/Holpiin/portfolio)
-- [GitHub profile](https://github.com/Holpiin)
-
-<p align="center">
-  <img src="https://github.com/Holpiin.png?size=80" alt="Holpiin badge" width="80" />
-</p>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
