@@ -1,7 +1,23 @@
 # Holpiin // Developer & Builder
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7CFFB2&center=true&vCenter=true&width=700&lines=Code.+Build.+Level+Up.;Full-Stack+Developer;Problem+Solver;Always+learning" alt="Holpiin typing banner" />
+  <img src="https://raw.githubusercontent.com/Holpiin/nurdaulet-portfolio/main/banner.svg" alt="Nurdaulet banner" width="900" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Holpiin/nurdaulet-portfolio/main/journey.svg" alt="My journey" width="900" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Holpiin/nurdaulet-portfolio/main/stack.svg" alt="Tech stack" width="900" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Holpiin/nurdaulet-portfolio/main/terminal.svg" alt="Terminal" width="900" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=7CFFB2&center=true&vCenter=true&width=700&lines=Code.+Build.+Level+Up.;Full-Stack+Developer;Problem+Solver;Always+Learning" alt="Typing banner" />
 </p>
 
 <p align="center">
@@ -11,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Holpiin&show_icons=true&theme=radical&hide_border=true&bg_color=0b1020&title_color=7CFFB2&icon_color=7CFFB2&text_color=e5f9ff&custom_title=Holpiin%20Stats" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Holpiin&show_icons=true&theme=radical&hide_border=true&bg_color=0b1020&title_color=7CFFB2&icon_color=7CFFB2&text_color=e5f9ff&custom_title=GitHub+Overview" alt="GitHub stats" />
 </p>
 
 ## Mission
