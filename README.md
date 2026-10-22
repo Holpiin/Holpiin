@@ -1,30 +1,21 @@
 # Hi, I'm Nurdaulet 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Holpiin/nurdaulet-portfolio/main/banner.svg" width="100%" alt="Nurdaulet banner" />
+  <img src="https://github.com/Holpiin.png?size=200" alt="Holpiin avatar" width="180" />
 </p>
 
 ## About me
-I build modern digital products, clean interfaces, and thoughtful user experiences.
+I’m a developer and digital creator focused on building clean, modern, and meaningful digital experiences.
+
+- 🔭 Working on my portfolio and personal projects
+- 🌱 Learning and improving frontend and product design skills
+- 📁 Portfolio repository: https://github.com/Holpiin/portfolio
+- 💼 GitHub: https://github.com/Holpiin
+
+### Quick links
+- [Portfolio repo](https://github.com/Holpiin/portfolio)
+- [GitHub profile](https://github.com/Holpiin)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Holpiin/nurdaulet-portfolio/main/journey.svg" width="100%" alt="My journey" />
-</p>
-
-## Tech Stack
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Holpiin/nurdaulet-portfolio/main/stack.svg" width="100%" alt="Tech stack" />
-</p>
-
-## Terminal
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Holpiin/nurdaulet-portfolio/main/terminal.svg" width="100%" alt="Terminal" />
-</p>
-
-## Connect
-- GitHub: https://github.com/Holpiin
-- Portfolio: https://github.com/Holpiin/nurdaulet-portfolio
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Holpiin/nurdaulet-portfolio/main/banner.svg" width="60%" alt="Footer banner" />
+  <img src="https://github.com/Holpiin.png?size=80" alt="Holpiin badge" width="80" />
 </p>
